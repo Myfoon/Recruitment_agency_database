@@ -1,5 +1,5 @@
 # Recruitment_agency_database
-Implementation physical database model based on presented logical model.
+Implementation physical database model based on presented logical model (logical model was also created from scratch). 
 
 Create a physical database with a separate database and schema and give it an appropriate domain-related name. Use the relational model you've created while studying DB Basics module. Task 2 (designing a logical data model on the chosen topic). Make sure you have made any changes to your model after your mentor's comments.
 Your database must be in 3NF
