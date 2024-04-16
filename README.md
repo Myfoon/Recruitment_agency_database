@@ -12,7 +12,9 @@ candidates improve their job prospects.
 -Сheck that the visualization of relationship matches the logic  
 -The correct data types should be specified.  
 -Keys and other constraints should be specified.  
--The names of the tables and columns should be clear (adhere to the coding standards).
+-The names of the tables and columns should be clear (adhere to the coding standards).  
+
+![logical_model](https://github.com/Myfoon/Recruitment_agency_database/assets/98499037/8ccfd778-d853-4943-9990-7877d345cc01)
 
 ## PART 2: Creating a physical database.
 You have to implement a physical database based on the logical model presented earlier. This involves creating the necessary database objects, such as tables and indexes, and defining their properties and relationships to reflect the logical model.
